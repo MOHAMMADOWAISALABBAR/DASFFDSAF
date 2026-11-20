@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Delete WA</string>
+    <string name="nls_label">التقاط رسائل واتساب</string>
+    <string name="a11y_label">حذف تلقائي لواتساب (Accessibility)</string>
+    <string name="a11y_desc">خدمة تجريبية لمحاكاة النقر وحذف رسائل واتساب</string>
+    <string name="target_hint">اسم جهة الاتصال المستهدفة (مثال: أحمد)</string>
+    <string name="save">حفظ جهة الاتصال</string>
+    <string name="enable_nls">1. تفعيل التقاط الإشعارات</string>
+    <string name="enable_a11y">2. تفعيل خدمة الحذف (Accessibility)</string>
+    <string name="enable_overlay">3. السماح بالظهور فوق التطبيقات (مهم لفتح واتساب)</string>
+    <string name="test_manual">اختبار يدوي (حذف آخر رسالة في المحادثة)</string>
+</resources>
